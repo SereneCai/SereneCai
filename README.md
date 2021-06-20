@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#For a list of projects: serenecai.github.io
+
+#Current Status: Learning MEAN stack  
+Progress --> /github.com/SereneCai/mean-course
