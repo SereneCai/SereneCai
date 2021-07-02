@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#For a list of projects: serenecai.github.io
+#For a list of completed projects: [Click here](serenecai.github.io)
 
-#Current Status: Learning MEAN stack  
-Progress --> /github.com/SereneCai/mean-course
+#Current Projects
+
+- Creating a blog site using MEAN --> [Click here](/github.com/SereneCai/mean-course)
+- Inventory
