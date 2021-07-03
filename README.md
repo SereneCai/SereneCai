@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#To know more: [Click here](https://serenecai.github.io)
+## To know more: [Click here](https://serenecai.github.io)
 
-##Current Projects
+## Current Projects
 
 - Creating a blog site using MEAN --> [Click here](https://github.com/SereneCai/mean-course)
 - Inventory
